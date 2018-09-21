@@ -342,7 +342,7 @@ function drawInputTrainglesUsingPaths(context) {
         } // end for files
     } // end if triangle files found
 } // end draw input triangles
-
+//
 
 /* main -- here is where execution begins after window load */
 
